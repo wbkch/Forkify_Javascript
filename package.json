@@ -1,0 +1,19 @@
+{
+  "name": "forkify_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbkch/Forkify_Javascript.git"
+  },
+  "author": "WBK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wbkch/Forkify_Javascript/issues"
+  },
+  "homepage": "https://github.com/wbkch/Forkify_Javascript#readme"
+}
